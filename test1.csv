@@ -1,0 +1,30 @@
+,Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Standard,Standard.1,Standard.2,Standard.3,Standard.4,Standard.5,Standard.6,Standard.7,Standard.8,Standard.9,Standard.10,Expected,Expected.1,Expected.2,Expected.3,Expected.4,Unnamed: 21
+0,Player,Nation,Pos,Age,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+1,Mikel Oyarzabal\Mikel-Oyarzabal,es ESP,FWMF,22,33.9,10,57,18,31.6,1.68,0.53,0.11,0.33,0,4,4,8.5,5.5,0.10,+1.5,+0.5,Matches
+2,Mikel Merino\Mikel-Merino,es ESP,MF,23,34.9,5,44,14,31.8,1.26,0.40,0.11,0.36,1,0,0,2.9,2.9,0.06,+2.1,+2.1,Matches
+3,Igor Zubeldia\Igor-Zubeldia,es ESP,MFDF,22,29.3,0,14,1,7.1,0.48,0.03,0.00,0.00,0,0,0,0.4,0.4,0.03,-0.4,-0.4,Matches
+4,Joseba Zald£a\Joseba-Zaldua,es ESP,DF,27,28.3,0,8,2,25.0,0.28,0.07,0.00,0.00,0,0,0,0.2,0.2,0.02,-0.2,-0.2,Matches
+5,Martin ?degaard\Martin-Odegaard,no NOR,MF,20,28.1,4,49,17,34.7,1.75,0.61,0.08,0.24,4,0,0,3.2,3.2,0.07,+0.8,+0.8,Matches
+6,Nacho Monreal\Nacho-Monreal,es ESP,DF,33,26.6,2,16,5,31.3,0.60,0.19,0.13,0.40,0,0,0,2.3,2.3,0.14,-0.3,-0.3,Matches
+7,Diego Llorente\Diego-Llorente,es ESP,DF,25,25.9,1,10,4,40.0,0.39,0.15,0.10,0.25,0,0,0,1.0,1.0,0.10,0.0,0.0,Matches
+8,Robin Le Normand\Robin-Le-Normand,fr FRA,DF,22,26.6,1,12,2,16.7,0.45,0.08,0.08,0.50,0,0,0,0.9,0.9,0.08,+0.1,+0.1,Matches
+9,Portu\Portu,es ESP,FWMF,27,26.6,7,40,15,37.5,1.50,0.56,0.18,0.47,0,0,1,5.8,5.1,0.13,+1.2,+1.9,Matches
+10,?lex Remiro\Alex-Remiro,es ESP,GK,24,25.0,0,1,0,0.0,0.04,0.00,0.00,,0,0,0,0.1,0.1,0.11,-0.1,-0.1,Matches
+11,Willian Jos\Willian-Jose,br BRA,FW,27,22.3,11,58,19,32.8,2.60,0.85,0.19,0.58,2,0,0,10.4,10.4,0.18,+0.6,+0.6,Matches
+12,Aritz Elustondo\Aritz-Elustondo,es ESP,DF,25,16.8,0,8,1,12.5,0.48,0.06,0.00,0.00,0,0,0,0.7,0.7,0.09,-0.7,-0.7,Matches
+13,Alexander Isak\Alexander-Isak,se SWE,FW,19,16.7,9,44,22,50.0,2.63,1.31,0.20,0.41,1,0,0,6.4,6.4,0.15,+2.6,+2.6,Matches
+14,Miguel ?ngel Moy \Miguel-Angel-Moya,es ESP,GK,35,13.0,0,0,0,,0.00,0.00,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+15,Adnan Januzaj\Adnan-Januzaj,be BEL,FWMF,24,13.0,3,25,8,32.0,1.93,0.62,0.12,0.38,4,0,0,1.4,1.4,0.06,+1.6,+1.6,Matches
+16,Aihen Mu¤oz\Aihen-Munoz,es ESP,DF,21,10.9,0,0,0,,0.00,0.00,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+17,Ander Guevara\Ander-Guevara,es ESP,MF,22,10.4,0,3,0,0.0,0.29,0.00,0.00,,0,0,0,0.0,0.0,0.01,0.0,0.0,Matches
+18,Andoni Gorosabel\Andoni-Gorosabel,es ESP,DF,22,7.9,0,1,1,100.0,0.13,0.13,0.00,0.00,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+19,Mart¡n Zubimendi\Martin-Zubimendi,es ESP,MF,20,6.6,0,4,0,0.0,0.61,0.00,0.00,,0,0,0,0.1,0.1,0.01,-0.1,-0.1,Matches
+20,Luca Sangalli\Luca-Sangalli,es ESP,MF,24,4.1,0,7,5,71.4,1.69,1.21,0.00,0.00,0,0,0,0.4,0.4,0.06,-0.4,-0.4,Matches
+21,Ander Barrenetxea\Ander-Barrenetxea,es ESP,FWMF,17,4.9,0,15,5,33.3,3.05,1.02,0.00,0.00,0,0,0,0.8,0.8,0.05,-0.8,-0.8,Matches
+22,Asier Illarramendi\Asier-Illarramendi,es ESP,MF,29,2.4,0,1,0,0.0,0.42,0.00,0.00,,0,0,0,0.0,0.0,0.02,0.0,0.0,Matches
+23,David Zurutuza\David-Zurutuza,es ESP,MF,33,1.7,0,0,0,,0.00,0.00,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+24,Jon Pacheco\Jon-Pacheco,es ESP,DF,18,0.9,0,0,0,,0.00,0.00,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+25,Nas Djouahra\Nais-Djouahra,fr FRA,FW,19,0.3,0,1,0,0.0,3.10,0.00,0.00,,0,0,0,0.1,0.1,0.08,-0.1,-0.1,Matches
+26,Roberto L¢pez\Roberto-Lopez,es ESP,MF,19,0.3,0,0,0,,0.00,0.00,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+27,Kvin Rodrigues\Kevin-Rodrigues,pt POR,DF,25,0.1,0,0,0,,0.00,0.00,,,0,0,0,0.0,0.0,,0.0,0.0,Matches
+28,Squad Total,,,,38.0,53,418,139,33.3,11.00,3.66,0.12,0.35,12,4,5,45.2,41.5,0.10,+7.8,+7.5,
